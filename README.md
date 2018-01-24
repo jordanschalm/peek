@@ -2,7 +2,7 @@
 
 Peek is a simple transport security layer that requires both endpoints to have a shared secret.
 
-:warning: Do not use this to secure anything important. Use a standard protocol :warning:
+:warning: Do not use this to secure anything important. Use a standard protocol! :warning:
 
 ## Design Goals
 
